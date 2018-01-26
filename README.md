@@ -16,10 +16,11 @@ Both can be read directly from Professor Jake's web page or forked as Jupyter No
 
 # What you Need
 
-Python and Jupyter Notebooks - I suggest you download and install Anaconda or Miniconda on you system. Full instructions can be found on the books above or [Anaconda](https://www.anaconda.com/download/) web site.
-The notebooks in this repository were created using Anaconda 3 64 bit (Python 3.5) on Windows 10.
+Python 3 and Jupyter Notebooks - I suggest you download and install Anaconda or Miniconda on you system. Instructions can be found on the [Anaconda](https://www.anaconda.com/download/) web site or simply search for tutorials and videos in the web - there are a lot!
+For reference, the notebooks in this repository were created using Anaconda 3 64 bit (Python 3.5) on Windows 10.
 
 # Free to Participate
 
-You're welcome to participate, fork, contribute and reuse the code as you give the right credits.
+You're welcome to participate, fork, contribute and reuse the code as you wish.
+Please don't forget to give the due credits.
 
